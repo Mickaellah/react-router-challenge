@@ -1,7 +1,6 @@
 {
   "name": "react-random-quote-generator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +23,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mickaellah/react-router-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mickaellah/react-router-challenge/issues"
+  },
+  "homepage": "https://github.com/Mickaellah/react-router-challenge#readme",
+  "description": ""
 }
